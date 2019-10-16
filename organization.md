@@ -1,6 +1,6 @@
 > Information Management. The pinaccle of thankless work. The work necessary to build a solid foundation for a program.
 >The kind of foundation which provides the stability needed to cash in on all opportunities given.   
->Success is *not* about being in the right place at the right time.
+>   Success is *not* about being in the right place at the right time.
 >Success is about being in the right place at the right time, and making the shot- acing the test- crossing the finish line.
 >This is what will decide your fate. Not the just the opportunites you are provided, but your resolve to control your destiny.
 > -_Kelsey Comstock_
