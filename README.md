@@ -1,31 +1,39 @@
 # sonic-howl.github.io
 _Skill Tree_
 
+Resources to Learn More:
+https://learn.sparkfun.com/tutorials/what-is-electricity/all
 
 ## Electronics
 
 ### Level 1: Sparky
 *Terminology*
 
+#### What is electricity?
+
+- Energy transfer 
+
 ##### Voltage
 ```
 SI Symbol: E
 SI Unit  : Volt ( V )
 ```
->"Electromotive Force"
+>"The Electromotive Force"
+- How hard can each electron push?
 - Measure of Potential Energy
 - A Measure of energy difference
 - Determines how much work each electron can do.
-> How hard can each electron push?
+
 
 ##### Current
 ```
 SI Symbol: I
 SI Unit  : Ampere ( A )
 ```
+> How many electrons are there?
+
 - A measure of the amount of electrons passing a given point
 - Determines 
-> How many electrons are there?
 
 ##### Power
 ```
