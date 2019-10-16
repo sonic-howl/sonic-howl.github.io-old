@@ -1,5 +1,9 @@
-> Information Management. The pinaccle of thankless work. The work necessary to build a solid foundation for a thing.=.
->The kind of foundation which provides the stability needed to cash in on the opportunities one comes across.   
+> Information Management. The pinaccle of thankless work. 
+
+> Thankless work is 80% of success. It's all the work necessary to build the solid foundation any structure needs.
+> A Solid foundation provides stability, even when everything else is shifting. Without question, with enough stability, one can
+> continue to operate far beyond the capacity they thought possible.  
+>  
 >   **Success is *not* about being in the right place at the right time.**
 >Success is about being in the right place at the right time, and making the shot- acing the test- crossing the finish line.
 >This is what will decide your fate. Not the just the opportunites you are provided, but your resolve to control your destiny.
