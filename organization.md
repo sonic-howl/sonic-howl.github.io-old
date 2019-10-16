@@ -1,6 +1,6 @@
-> Information Management. The pinaccle of thankless work. 
+> *Information Management. The pinaccle of thankless work.* 
 
-> Thankless work is 80% of success. It's all the work necessary to build the solid foundation any structure needs.
+> Thankless work is 80% of success. *Thankless work* is all the work necessary to build the solid foundation any structure needs.
 > A Solid foundation provides stability, even when everything else is shifting. Without question, with enough stability, one can
 > continue to operate far beyond the capacity they thought possible.  
 >  
